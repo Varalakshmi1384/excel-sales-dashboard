@@ -19,6 +19,7 @@ The project uses three structured datasets:
 1️⃣ Orders Table
 
 Contains detailed sales transaction data including:
+
 -Order ID
 -Order Date & Ship Date
 -Customer ID & Customer Name
@@ -36,6 +37,7 @@ This acts as the primary transaction dataset for analysis.
 2️⃣ Returns Table
 
 Contains:
+
 -Order ID
 -Return Status
 
@@ -44,6 +46,7 @@ Used to analyze returned orders and evaluate their impact on profitability.
 3️⃣ Users Table
 
 Contains:
+
 -Region
 -Manager
 
@@ -62,9 +65,13 @@ All datasets were structured into Excel Tables and used to generate Pivot Tables
 📈 Dashboard Features
 
 -Interactive Slicers (Region, Product Category, Segment, Ship Mode)
+
 -Pivot Tables for structured analysis
+
 -Pivot Charts connected to slicers
+
 -Automatic updates when slicers are applied
+
 -Business-focused visual reporting
 
 🎯 Business Insights
